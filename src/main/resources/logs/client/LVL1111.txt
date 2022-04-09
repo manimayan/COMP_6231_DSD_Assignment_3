@@ -1,0 +1,18 @@
+
+2021-07-17T10:12:37.665 <> UserName: LVL1111 <> Phase: choosing system options <> Log: 4
+2021-07-17T10:12:37.666 <> UserName: LVL1111 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-07-17T10:12:37.808 <> UserName: LVL1111 <> Phase: getRecordCount <> Log: MTL : 8, LVL : 7, DDO : 8
+2021-07-17T10:12:45.728 <> UserName: LVL1111 <> Phase: choosing system options <> Log: 5
+2021-07-17T10:12:45.729 <> UserName: LVL1111 <> Phase: transferRecord <> Log: selected transferRecord
+2021-07-17T10:12:53.807 <> UserName: LVL1111 <> Phase: transferRecord <> Log: Entered Input: TR10000, DDO
+2021-07-17T22:23:03.228 <> UserName: LVL1111 <> Phase: choosing system options <> Log: 4
+2021-07-17T22:23:03.229 <> UserName: LVL1111 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-07-17T22:23:03.481 <> UserName: LVL1111 <> Phase: getRecordCount <> Log: MTL : 7, LVL : 7, DDO : 8
+2021-07-17T22:23:09.291 <> UserName: LVL1111 <> Phase: choosing system options <> Log: 2
+2021-07-17T22:23:09.292 <> UserName: LVL1111 <> Phase: createStudentRecord <> Log: selected Student Record
+2021-07-17T22:23:15.345 <> UserName: LVL1111 <> Phase: createStudentRecord <> Log: Entered Input: James, Anderson, Java|Python|Scala, 1, 2021-12-22
+2021-07-17T22:23:17.441 <> UserName: LVL1111 <> Phase: createStudentRecord <> Log: Student record SR10000 created in Laval location with name : James Anderson
+2021-07-17T22:23:22.416 <> UserName: LVL1111 <> Phase: choosing system options <> Log: 5
+2021-07-17T22:23:22.418 <> UserName: LVL1111 <> Phase: transferRecord <> Log: selected transferRecord
+2021-07-17T22:23:45.601 <> UserName: LVL1111 <> Phase: transferRecord <> Log: Entered Input: SR10000, DDO
+2021-07-17T22:23:45.709 <> UserName: LVL1111 <> Phase: transferRecord <> Log: Student record SR10000 transferred to Dollard-des-Ormeaux location with name : James Anderson

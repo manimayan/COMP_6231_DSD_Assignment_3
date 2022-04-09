@@ -1,0 +1,25 @@
+
+2021-07-16T00:46:34.761 <> UserName: MTL0000 <> Phase: choosing system options <> Log: 4
+2021-07-16T00:46:34.764 <> UserName: MTL0000 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-07-16T00:59:35.571 <> UserName: MTL0000 <> Phase: choosing system options <> Log: 1
+2021-07-16T00:59:35.572 <> UserName: MTL0000 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-07-16T00:59:40.727 <> UserName: MTL0000 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-07-16T01:00:49.099 <> UserName: MTL0000 <> Phase: choosing system options <> Log: 4
+2021-07-16T01:00:49.101 <> UserName: MTL0000 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-07-16T01:15:10.395 <> UserName: MTL0000 <> Phase: choosing system options <> Log: 4
+2021-07-16T01:15:10.396 <> UserName: MTL0000 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-07-16T01:24:34.061 <> UserName: MTL0000 <> Phase: choosing system options <> Log: 4
+2021-07-16T01:24:34.062 <> UserName: MTL0000 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-07-16T01:26:22.151 <> UserName: MTL0000 <> Phase: choosing system options <> Log: 4
+2021-07-16T01:26:22.153 <> UserName: MTL0000 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-07-16T01:29:32.572 <> UserName: MTL0000 <> Phase: choosing system options <> Log: 4
+2021-07-16T01:29:32.572 <> UserName: MTL0000 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-07-16T01:30:02.921 <> UserName: MTL0000 <> Phase: choosing system options <> Log: 4
+2021-07-16T01:30:02.922 <> UserName: MTL0000 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-07-16T01:31:43.461 <> UserName: MTL0000 <> Phase: choosing system options <> Log: 4
+2021-07-16T01:31:43.462 <> UserName: MTL0000 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-07-16T01:31:44.190 <> UserName: MTL0000 <> Phase: getRecordCount <> Log: MTL : 7, LVL : 6, DDO : 8
+2021-07-16T01:31:52.593 <> UserName: MTL0000 <> Phase: choosing system options <> Log: 1
+2021-07-16T01:31:52.594 <> UserName: MTL0000 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-07-16T01:31:57.204 <> UserName: MTL0000 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-07-16T01:31:58.164 <> UserName: MTL0000 <> Phase: createTeacherRecord <> Log: Teacher record TR10000 created in Montreal location with name : Kevin Peterson

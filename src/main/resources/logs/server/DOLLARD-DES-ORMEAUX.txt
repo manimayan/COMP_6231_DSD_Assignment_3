@@ -1,0 +1,31 @@
+
+2021-07-04T20:21:00.492 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Dollard-des-Ormeaux server started
+2021-07-04T20:21:00.494 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-15T23:19:01.893 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Dollard-des-Ormeaux server started
+2021-07-15T23:19:01.894 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-15T23:40:27.830 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Dollard-des-Ormeaux server started
+2021-07-15T23:40:27.831 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-15T23:47:29.111 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Dollard-des-Ormeaux server started
+2021-07-15T23:47:29.113 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-16T00:48:46 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Dollard-des-Ormeaux server started
+2021-07-16T00:48:46.003 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-16T00:51:11.943 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Dollard-des-Ormeaux server started
+2021-07-16T00:51:11.945 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-16T00:55:33.168 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Dollard-des-Ormeaux server started
+2021-07-16T00:55:33.170 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-16T00:59:24.181 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Dollard-des-Ormeaux server started
+2021-07-16T00:59:24.182 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-16T01:15:02.080 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Dollard-des-Ormeaux server started
+2021-07-16T01:15:02.081 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-16T01:24:22.118 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Dollard-des-Ormeaux server started
+2021-07-16T01:24:22.121 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-17T10:07:13.287 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Dollard-des-Ormeaux server started
+2021-07-17T10:07:13.290 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-17T22:06:01.653 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Dollard-des-Ormeaux server started
+2021-07-17T22:06:01.835 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-17T22:21:01.198 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Dollard-des-Ormeaux server started
+2021-07-17T22:21:01.201 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-17T22:23:45.706 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: LVL1111 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : James, Last Name : Anderson, Courses Registered : Java,Python,Scala, Status : Active, Status Date : 2021-12-22)
+2021-07-17T22:23:45.706 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: LVL1111 <> Phase: Response <> Log: Student record SR10000 transferred to Dollard-des-Ormeaux location with name : James Anderson
+2021-07-17T22:24:03.020 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: DDO1111 <> Phase: Request <> Log: Request to get record count of teachers and student from all three server locations.
+2021-07-17T22:24:03.085 <> ServerName: DOLLARD-DES-ORMEAUX <> Operator: DDO1111 <> Phase: Response <> Log: MTL : 7, LVL : 7, DDO : 9

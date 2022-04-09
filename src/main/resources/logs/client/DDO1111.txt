@@ -1,0 +1,4 @@
+
+2021-07-17T22:24:02.751 <> UserName: DDO1111 <> Phase: choosing system options <> Log: 4
+2021-07-17T22:24:02.751 <> UserName: DDO1111 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-07-17T22:24:03.091 <> UserName: DDO1111 <> Phase: getRecordCount <> Log: MTL : 7, LVL : 7, DDO : 9

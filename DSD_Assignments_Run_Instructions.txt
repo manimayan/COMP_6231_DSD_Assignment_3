@@ -1,0 +1,29 @@
+1.to run the program :go to project  dir -->"C:\Program Files\Java\jdk1.8.0_181\bin\orbd.exe"  ORBIinitialPort 1050
+
+2.go to DCMSCorba.idl directory run this command to generate corba files. "C:\Program Files\Java\jdk1.8.0_181\bin\idlj.exe" -fall DCMSCorba.idl
+
+
+
+C:\Windows\System32\cmd.exe /kcd /dC:\Users\manimaran.palani\git\Comp6231\COMP-6231-DSD-Assignment-2\src\main\java
+
+C:\Windows\System32\cmd.exe /kcd /dC:\Users\manimaran.palani\git\Comp6231\COMP-6231-DSD-Assignment-2
+
+COMP-6231-DSD-Assignment-3\bin\main ---> go to this folder ---> run the below commands --->
+
+wsgen -verbose -keep -cp . dsd.cms.server.DollardServer -wsdl
+wsgen -verbose -keep -cp . dsd.cms.server.MontrealServer -wsdl
+wsgen -verbose -keep -cp . dsd.cms.server.LavalServer -wsdl
+
+wsimport -keep -verbose http://localhost:8080/DCMS/MTL?wsdl
+wsimport -keep -verbose http://localhost:8080/DCMS/LVL?wsdl
+wsimport -keep -verbose http://localhost:8080/DCMS/DDO?wsdl
+
+After running the above commands --> go to 
+COMP-6231-DSD-Assignment-3\bin\main\dsd\cms\interfaces copy .java class to 
+COMP-6231-DSD-Assignment-3\bin\main\dsd\cms\wsdlclasses then
+go to COMP-6231-DSD-Assignment-3\bin\main\dsd\cms\server copy .java class to 
+COMP-6231-DSD-Assignment-3\bin\main\dsd\cms\wsdlclasses
+
+
+
+idlj -fall FECorba.idl

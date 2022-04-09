@@ -1,0 +1,67 @@
+
+2021-07-04T20:21:00.394 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Montreal server started
+2021-07-04T20:21:00.396 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-04T20:25:33.901 <> ServerName: MONTREAL <> Operator: System <> Phase: Response <> Log: SR99991 removed from Montreal
+2021-07-15T23:19:01.893 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Montreal server started
+2021-07-15T23:19:01.894 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-15T23:40:27.830 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Montreal server started
+2021-07-15T23:40:27.831 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-15T23:47:29.111 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Montreal server started
+2021-07-15T23:47:29.114 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-15T23:48:55.967 <> ServerName: MONTREAL <> Operator: mtl0000 <> Phase: Request <> Log: Request to get record count of teachers and student from all three server locations.
+2021-07-15T23:48:56.017 <> ServerName: MONTREAL <> Operator: mtl0000 <> Phase: Response <> Log: MTL : 7, LVL : 6, DDO : 8
+2021-07-16T00:48:46 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Montreal server started
+2021-07-16T00:48:46.003 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-16T00:51:11.943 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Montreal server started
+2021-07-16T00:51:11.945 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-16T00:55:33.168 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Montreal server started
+2021-07-16T00:55:33.170 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-16T00:59:24.181 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Montreal server started
+2021-07-16T00:59:24.182 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-16T01:15:02.080 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Montreal server started
+2021-07-16T01:15:02.081 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-16T01:24:22.118 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Montreal server started
+2021-07-16T01:24:22.121 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-16T01:31:44.116 <> ServerName: MONTREAL <> Operator: mtl0000 <> Phase: Request <> Log: Request to get record count of teachers and student from all three server locations.
+2021-07-16T01:31:44.177 <> ServerName: MONTREAL <> Operator: mtl0000 <> Phase: Response <> Log: MTL : 7, LVL : 6, DDO : 8
+2021-07-16T01:31:58.161 <> ServerName: MONTREAL <> Operator: mtl0000 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : Kevin, Last Name : Peterson, Address : 23,Lords street,London-987, Phone : 9023123445, Specialization : Java,Python,Scala, Location : MTL)
+2021-07-16T01:31:58.162 <> ServerName: MONTREAL <> Operator: mtl0000 <> Phase: Response <> Log: Teacher record TR10000 created in Montreal location with name : Kevin Peterson
+2021-07-17T10:07:13.286 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Montreal server started
+2021-07-17T10:07:13.290 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-17T10:09:05.941 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : Kevin, Last Name : Peterson, Address : 23,Lords street,London-987, Phone : 9023123445, Specialization : Java,Python,Scala, Location : MTL)
+2021-07-17T10:09:05.942 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: Teacher record TR10000 created in Montreal location with name : Kevin Peterson
+2021-07-17T10:09:14.186 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Request to get record count of teachers and student from all three server locations.
+2021-07-17T10:09:14.252 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: MTL : 8, LVL : 6, DDO : 8
+2021-07-17T10:11:36.585 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : Kevin, Last Name : Peterson, Address : 23,Lords street,London-987, Phone : 9023123445, Specialization : Java,Python,Scala, Location : MTL)
+2021-07-17T10:11:36.586 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: Teacher record TR10001 created in Montreal location with name : Kevin Peterson
+2021-07-17T10:11:50.245 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Request to get record count of teachers and student from all three server locations.
+2021-07-17T10:11:50.315 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: MTL : 9, LVL : 6, DDO : 8
+2021-07-17T10:12:24.541 <> ServerName: MONTREAL <> Operator: System <> Phase: Response <> Log: TR10000 removed from Montreal
+2021-07-17T22:06:01.787 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Montreal server started
+2021-07-17T22:06:01.849 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-17T22:19:25.848 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : testFName1, Last Name : testLName1, Address : abc-12, Montreal, Phone : 9999999999, Specialization : Python|Java, Location : MTL)
+2021-07-17T22:19:25.849 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: Teacher record TR10000 created in Montreal location with name : testFName1 testLName1
+2021-07-17T22:19:25.898 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : testFName1, Last Name : testLName1, Courses Registered : ML|APP, Status : Active, Status Date : 2021-12-24)
+2021-07-17T22:19:25.899 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: Student record SR10000 created in Montreal location with name : testFName1 testLName1
+2021-07-17T22:19:25.941 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Edit Record requested for record with ID : SR10000, Edit Field : COURSEREGISTERED, New Value : JAVA|HTML5
+2021-07-17T22:19:25.942 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: Edit operation performed successfully.
+Updated Record: Id:SR10000, FN:testFName1, LN:testLName1, CoursesRegistered:JAVA|HTML5, Status:Active, StatusDate:2021-12-24
+2021-07-17T22:19:25.979 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Request to get record count of teachers and student from all three server locations.
+2021-07-17T22:19:26.037 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: MTL : 9, LVL : 6, DDO : 8
+2021-07-17T22:19:26.086 <> ServerName: MONTREAL <> Operator: System <> Phase: Response <> Log: SR10000 removed from Montreal
+2021-07-17T22:19:26.330 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : fEditTransfer1, Last Name : lEditTransfer1, Address : abc-12, Montreal, Phone : 8888888888, Specialization : Python|Java, Location : MTL)
+2021-07-17T22:19:26.332 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: Teacher record TR10001 created in Montreal location with name : fEditTransfer1 lEditTransfer1
+2021-07-17T22:19:26.366 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : fEditTransfer1, Last Name : lEditTransfer1, Courses Registered : ML|APP, Status : Active, Status Date : 2021-12-24)
+2021-07-17T22:19:26.367 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: Student record SR10001 created in Montreal location with name : fEditTransfer1 lEditTransfer1
+2021-07-17T22:19:26.675 <> ServerName: MONTREAL <> Operator: System <> Phase: Response <> Log: TR10001 removed from Montreal
+2021-07-17T22:19:26.682 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Request <> Log: Edit Record requested for record with ID : TR10001, Edit Field : PHONE, New Value : 9191919191
+2021-07-17T22:19:26.683 <> ServerName: MONTREAL <> Operator: MTL1111 <> Phase: Response <> Log: Teacher Record with given id : TR10001 was not found.
+2021-07-17T22:19:26.977 <> ServerName: MONTREAL <> Operator: System <> Phase: Response <> Log: SR10001 removed from Montreal
+2021-07-17T22:19:27.282 <> ServerName: MONTREAL <> Operator: MTL1000 <> Phase: Request <> Log: Edit Record requested for record with ID : SR10001, Edit Field : COURSEREGISTERED, New Value : JAVA|DSD
+2021-07-17T22:19:27.283 <> ServerName: MONTREAL <> Operator: MTL1000 <> Phase: Response <> Log: Student Record with given id : SR10001 was not found.
+2021-07-17T22:19:28.525 <> ServerName: MONTREAL <> Operator: System <> Phase: Response <> Log: TR10000 removed from Montreal
+2021-07-17T22:21:01.198 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Montreal server started
+2021-07-17T22:21:01.201 <> ServerName: MONTREAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-17T22:22:34.388 <> ServerName: MONTREAL <> Operator: mtl1111 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : Kevin, Last Name : Peterson, Address : 23,Lords street,London-987, Phone : 9023123445, Specialization : Java,Python,Scala, Location : MTL)
+2021-07-17T22:22:34.389 <> ServerName: MONTREAL <> Operator: mtl1111 <> Phase: Response <> Log: Teacher record TR10000 created in Montreal location with name : Kevin Peterson
+2021-07-17T22:22:46.058 <> ServerName: MONTREAL <> Operator: System <> Phase: Response <> Log: TR10000 removed from Montreal

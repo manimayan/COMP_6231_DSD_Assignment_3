@@ -1,0 +1,30 @@
+
+2021-07-17T10:08:48.946 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-07-17T10:08:49.025 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-07-17T10:08:59.966 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-07-17T10:09:05.948 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Teacher record TR10000 created in Montreal location with name : Kevin Peterson
+2021-07-17T10:09:14.096 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 4
+2021-07-17T10:09:14.097 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-07-17T10:09:14.256 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: MTL : 8, LVL : 6, DDO : 8
+2021-07-17T10:09:29.239 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 5
+2021-07-17T10:09:29.241 <> UserName: MTL1111 <> Phase: transferRecord <> Log: selected transferRecord
+2021-07-17T10:09:58.540 <> UserName: MTL1111 <> Phase: transferRecord <> Log: Entered Input: TR10000, LVL
+2021-07-17T10:11:24.997 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-07-17T10:11:25.128 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-07-17T10:11:34.006 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-07-17T10:11:36.588 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Teacher record TR10001 created in Montreal location with name : Kevin Peterson
+2021-07-17T10:11:50.142 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 4
+2021-07-17T10:11:50.143 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: selected getRecordCount
+2021-07-17T10:11:50.321 <> UserName: MTL1111 <> Phase: getRecordCount <> Log: MTL : 9, LVL : 6, DDO : 8
+2021-07-17T10:12:10.374 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 5
+2021-07-17T10:12:10.375 <> UserName: MTL1111 <> Phase: transferRecord <> Log: selected transferRecord
+2021-07-17T10:12:24.533 <> UserName: MTL1111 <> Phase: transferRecord <> Log: Entered Input: TR10000, LVL
+2021-07-17T10:12:24.641 <> UserName: MTL1111 <> Phase: transferRecord <> Log: Teacher record TR10000 transferred to Laval location with name : Kevin Peterson
+2021-07-17T22:22:21.879 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 1
+2021-07-17T22:22:21.982 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: selected Teacher Record
+2021-07-17T22:22:31.913 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Entered Input: Kevin, Peterson, 23,Lords street,London-987, 9023123445, Java|Python|Scala, MTL
+2021-07-17T22:22:34.396 <> UserName: MTL1111 <> Phase: createTeacherRecord <> Log: Teacher record TR10000 created in Montreal location with name : Kevin Peterson
+2021-07-17T22:22:37.969 <> UserName: MTL1111 <> Phase: choosing system options <> Log: 5
+2021-07-17T22:22:37.970 <> UserName: MTL1111 <> Phase: transferRecord <> Log: selected transferRecord
+2021-07-17T22:22:46.052 <> UserName: MTL1111 <> Phase: transferRecord <> Log: Entered Input: TR10000, LVL
+2021-07-17T22:22:46.190 <> UserName: MTL1111 <> Phase: transferRecord <> Log: Teacher record TR10000 transferred to Laval location with name : Kevin Peterson

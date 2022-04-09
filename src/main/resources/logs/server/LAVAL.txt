@@ -1,0 +1,53 @@
+
+2021-07-04T20:21:00.434 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Laval server started
+2021-07-04T20:21:00.435 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-04T20:25:33.916 <> ServerName: LAVAL <> Operator: mtl0000 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : Montreal, Last Name : Student1, Courses Registered : ML,Java, Status : Active, Status Date : 2021-12-20)
+2021-07-04T20:25:33.918 <> ServerName: LAVAL <> Operator: mtl0000 <> Phase: Response <> Log: Student record SR99991 transferred to Laval location with name : Montreal Student1
+2021-07-15T23:19:01.893 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Laval server started
+2021-07-15T23:19:01.894 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-15T23:40:27.830 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Laval server started
+2021-07-15T23:40:27.831 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-15T23:47:29.111 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Laval server started
+2021-07-15T23:47:29.113 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-16T00:48:46 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Laval server started
+2021-07-16T00:48:46.003 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-16T00:51:11.943 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Laval server started
+2021-07-16T00:51:11.945 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-16T00:55:33.168 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Laval server started
+2021-07-16T00:55:33.170 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-16T00:59:24.181 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Laval server started
+2021-07-16T00:59:24.182 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-16T01:15:02.080 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Laval server started
+2021-07-16T01:15:02.082 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-16T01:24:22.118 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Laval server started
+2021-07-16T01:24:22.121 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-17T10:07:13.286 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Laval server started
+2021-07-17T10:07:13.290 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-17T10:12:24.638 <> ServerName: LAVAL <> Operator: MTL1111 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : Kevin, Last Name : Peterson, Address : 23,Lords street,London-987, Phone : 9023123445, Specialization : Java,Python,Scala, Location : MTL)
+2021-07-17T10:12:24.639 <> ServerName: LAVAL <> Operator: MTL1111 <> Phase: Response <> Log: Teacher record TR10000 transferred to Laval location with name : Kevin Peterson
+2021-07-17T10:12:37.741 <> ServerName: LAVAL <> Operator: LVL1111 <> Phase: Request <> Log: Request to get record count of teachers and student from all three server locations.
+2021-07-17T10:12:37.806 <> ServerName: LAVAL <> Operator: LVL1111 <> Phase: Response <> Log: MTL : 8, LVL : 7, DDO : 8
+2021-07-17T22:06:01.787 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Laval server started
+2021-07-17T22:06:01.835 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-17T22:19:26.132 <> ServerName: LAVAL <> Operator: MTL1111 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : testFName1, Last Name : testLName1, Courses Registered : JAVA|HTML5, Status : Active, Status Date : 2021-12-24)
+2021-07-17T22:19:26.133 <> ServerName: LAVAL <> Operator: MTL1111 <> Phase: Response <> Log: Student record SR10000 transferred to Laval location with name : testFName1 testLName1
+2021-07-17T22:19:26.175 <> ServerName: LAVAL <> Operator: LVL1111 <> Phase: Request <> Log: Request to get record count of teachers and student from all three server locations.
+2021-07-17T22:19:26.238 <> ServerName: LAVAL <> Operator: LVL1111 <> Phase: Response <> Log: MTL : 8, LVL : 7, DDO : 8
+2021-07-17T22:19:26.290 <> ServerName: LAVAL <> Operator: LVL1111 <> Phase: Request <> Log: Edit Record requested for record with ID : SR10000, Edit Field : COURSEREGISTERED, New Value : JAVA|DSD
+2021-07-17T22:19:26.290 <> ServerName: LAVAL <> Operator: LVL1111 <> Phase: Response <> Log: Edit operation performed successfully.
+Updated Record: Id:SR10000, FN:testFName1, LN:testLName1, CoursesRegistered:JAVA|DSD, Status:Active, StatusDate:2021-12-24
+2021-07-17T22:19:26.958 <> ServerName: LAVAL <> Operator: MTL1000 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : fEditTransfer1, Last Name : lEditTransfer1, Address : abc-12, Montreal, Phone : 8888888888, Specialization : Python|Java, Location : MTL)
+2021-07-17T22:19:26.960 <> ServerName: LAVAL <> Operator: MTL1000 <> Phase: Response <> Log: Teacher record TR10001 transferred to Laval location with name : fEditTransfer1 lEditTransfer1
+2021-07-17T22:19:27.269 <> ServerName: LAVAL <> Operator: MTL1111 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : fEditTransfer1, Last Name : lEditTransfer1, Courses Registered : ML|APP, Status : Active, Status Date : 2021-12-24)
+2021-07-17T22:19:27.270 <> ServerName: LAVAL <> Operator: MTL1111 <> Phase: Response <> Log: Student record SR10001 transferred to Laval location with name : fEditTransfer1 lEditTransfer1
+2021-07-17T22:19:28.880 <> ServerName: LAVAL <> Operator: System <> Phase: Response <> Log: TR10001 removed from Laval
+2021-07-17T22:19:28.971 <> ServerName: LAVAL <> Operator: System <> Phase: Response <> Log: SR10001 removed from Laval
+2021-07-17T22:21:01.198 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Laval server started
+2021-07-17T22:21:01.201 <> ServerName: LAVAL <> Operator: System <> Phase: StartUp <> Log: Initial data loaded.
+2021-07-17T22:22:46.184 <> ServerName: LAVAL <> Operator: mtl1111 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : Kevin, Last Name : Peterson, Address : 23,Lords street,London-987, Phone : 9023123445, Specialization : Java,Python,Scala, Location : MTL)
+2021-07-17T22:22:46.185 <> ServerName: LAVAL <> Operator: mtl1111 <> Phase: Response <> Log: Teacher record TR10000 transferred to Laval location with name : Kevin Peterson
+2021-07-17T22:23:03.372 <> ServerName: LAVAL <> Operator: LVL1111 <> Phase: Request <> Log: Request to get record count of teachers and student from all three server locations.
+2021-07-17T22:23:03.471 <> ServerName: LAVAL <> Operator: LVL1111 <> Phase: Response <> Log: MTL : 7, LVL : 7, DDO : 8
+2021-07-17T22:23:17.439 <> ServerName: LAVAL <> Operator: LVL1111 <> Phase: Request <> Log: Teacher record creation requested with : (First Name : James, Last Name : Anderson, Courses Registered : Java,Python,Scala, Status : Active, Status Date : 2021-12-22)
+2021-07-17T22:23:17.440 <> ServerName: LAVAL <> Operator: LVL1111 <> Phase: Response <> Log: Student record SR10000 created in Laval location with name : James Anderson
+2021-07-17T22:23:45.616 <> ServerName: LAVAL <> Operator: System <> Phase: Response <> Log: SR10000 removed from Laval
